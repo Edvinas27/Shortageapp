@@ -10,8 +10,8 @@ public enum UserRole
 
 public class User
 {
-    public Guid Id { get; set; }
-    public string Name { get; set; } = string.Empty;
-    public string Password { get; set; } = string.Empty;
-    public UserRole Role { get; set; }
+    public required Guid Id { get; set; }
+    public required string Name { get; set; } = string.Empty;
+    public required string Password { get; set; } = string.Empty;
+    public required UserRole Role { get; set; }
 }
