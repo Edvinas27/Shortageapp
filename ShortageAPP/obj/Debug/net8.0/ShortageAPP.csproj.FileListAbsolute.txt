@@ -1,0 +1,14 @@
+/Users/edvinas/RiderProjects/ShortageAPP/ShortageAPP/bin/Debug/net8.0/ShortageAPP
+/Users/edvinas/RiderProjects/ShortageAPP/ShortageAPP/bin/Debug/net8.0/ShortageAPP.deps.json
+/Users/edvinas/RiderProjects/ShortageAPP/ShortageAPP/bin/Debug/net8.0/ShortageAPP.runtimeconfig.json
+/Users/edvinas/RiderProjects/ShortageAPP/ShortageAPP/bin/Debug/net8.0/ShortageAPP.dll
+/Users/edvinas/RiderProjects/ShortageAPP/ShortageAPP/bin/Debug/net8.0/ShortageAPP.pdb
+/Users/edvinas/RiderProjects/ShortageAPP/ShortageAPP/obj/Debug/net8.0/ShortageAPP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edvinas/RiderProjects/ShortageAPP/ShortageAPP/obj/Debug/net8.0/ShortageAPP.AssemblyInfoInputs.cache
+/Users/edvinas/RiderProjects/ShortageAPP/ShortageAPP/obj/Debug/net8.0/ShortageAPP.AssemblyInfo.cs
+/Users/edvinas/RiderProjects/ShortageAPP/ShortageAPP/obj/Debug/net8.0/ShortageAPP.csproj.CoreCompileInputs.cache
+/Users/edvinas/RiderProjects/ShortageAPP/ShortageAPP/obj/Debug/net8.0/ShortageAPP.dll
+/Users/edvinas/RiderProjects/ShortageAPP/ShortageAPP/obj/Debug/net8.0/refint/ShortageAPP.dll
+/Users/edvinas/RiderProjects/ShortageAPP/ShortageAPP/obj/Debug/net8.0/ShortageAPP.pdb
+/Users/edvinas/RiderProjects/ShortageAPP/ShortageAPP/obj/Debug/net8.0/ShortageAPP.genruntimeconfig.cache
+/Users/edvinas/RiderProjects/ShortageAPP/ShortageAPP/obj/Debug/net8.0/ref/ShortageAPP.dll

@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "c0069267-6f33-48f2-927e-ff0ce4788e8c",
+    "Name": "4",
+    "Title": "4",
+    "RoomType": "Kitchen",
+    "CategoryType": "Food",
+    "Priority": 10,
+    "CreatedAt": "2025-04-17T13:27:57.648047+03:00",
+    "CreatedBy": "a13b452f-fb2c-49c0-b7e9-26457d3d70a3"
+  },
+  {
+    "Id": "98cd57a8-940e-42bd-a027-0a37250606eb",
+    "Name": "2",
+    "Title": "2",
+    "RoomType": "Kitchen",
+    "CategoryType": "Food",
+    "Priority": 5,
+    "CreatedAt": "2025-04-17T13:27:57.648041+03:00",
+    "CreatedBy": "ebb7d65c-a8ce-4650-869a-b030dcfad567"
+  },
+  {
+    "Id": "95fe16b6-fbe3-43b4-a6a6-25fa4f4ab868",
+    "Name": "3",
+    "Title": "3",
+    "RoomType": "Kitchen",
+    "CategoryType": "Food",
+    "Priority": 3,
+    "CreatedAt": "2025-04-17T13:27:57.648044+03:00",
+    "CreatedBy": "87871c59-e090-43f2-b2ea-0bfb6c826185"
+  },
+  {
+    "Id": "0daaa6a4-b1aa-4fe0-a428-48a0c09377fe",
+    "Name": "1",
+    "Title": "1",
+    "RoomType": "Kitchen",
+    "CategoryType": "Food",
+    "Priority": 1,
+    "CreatedAt": "2025-04-17T13:27:57.648038+03:00",
+    "CreatedBy": "ea655f5c-7308-4ab1-b7e8-2441f48e1b38"
+  }
+]
